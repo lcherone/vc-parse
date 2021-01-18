@@ -2,7 +2,7 @@
 
 Parse wordpress visual composer / wordpress bakery shortcode markup into workable array, for laying out an external app or intergration.
 
-If you know of something already which does this functionality? Please open an issue and let me know I looked for an age. Note.. I built the function using the above markup, if it doesn't work on yours, then let me know, or open a PR if you have fixed it.
+If you know of something already which does this functionality? Please open an issue and let me know, I looked for an age. Note: I built the function using the markup below, if it doesn't work on yours, then let me know, or open a PR if you have fixed it.
 
 
 ### Turn:
