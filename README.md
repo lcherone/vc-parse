@@ -475,6 +475,4 @@ Array
 )
 ```
 
-Sorry you scrolled so far, there isnt anythign down here..
-
-
+I sorry you scrolled this far, there isn't anything down here..
